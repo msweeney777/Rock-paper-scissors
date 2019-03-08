@@ -72,7 +72,7 @@ function statistics (result) {
 }
 
 function wtf () {
-  console.log('\n WTF?\n');
+  console.log('\n Does not compute\n');
   setTimeout(begin, 1000);
 }
 
